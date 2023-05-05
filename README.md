@@ -1,4 +1,8 @@
-# GPTQ-for-SantaCoder-and-StarCoder
+# Fork of GPTQ-for-SantaCoder-and-StarCoder
+ORIGINAL REPO: https://github.com/mayank31398/GPTQ-for-SantaCoder.git
+
+I wanted to fork this properly, but I already have multiple GPTQ-* forks :)
+
 Quantization of [SantaCoder](https://arxiv.org/abs/2301.03988) using [GPTQ](https://arxiv.org/abs/2210.17323)
 
 GPTQ is SOTA one-shot weight quantization method
